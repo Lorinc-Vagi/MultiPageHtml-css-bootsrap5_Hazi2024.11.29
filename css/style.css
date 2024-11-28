@@ -199,7 +199,7 @@ section {
 .gallery .banner_section,
 .contact .banner_section,
 .distributors .banner_section {
-    background: url('../images/_index/ROG-Gaming-Gear_Banner_Gladius-II_2000x720.jpg');
+    background: url('../images/Aindex/ROG-Gaming-Gear_Banner_Gladius-II_2000x720.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -338,7 +338,7 @@ section {
 /* 02 Banner Section */
 
 .banner_section {
-    background: url('../images/_index/big.jpg');
+    background: url('../images/Aindex/big.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -424,7 +424,7 @@ section {
 /* About Section */
 
 .landing_about_section {
-    background: url('../images/_index/daewoo-wired-gaming-headphones-p337-7083_image.jpg');
+    background: url('../images/Aindex/daewoo-wired-gaming-headphones-p337-7083_image.jpg');
     
     background-repeat: no-repeat;
     background-size: cover;
